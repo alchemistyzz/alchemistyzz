@@ -7,6 +7,21 @@
 <br/>  
 
 
+
+
+
+## Connect with me  
+  
+
+<br/>  
+
+
+## Github Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemistyzz)](https://github.com/alchemistyzz/github-readme-stats)
+![alchemistyzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchemistyzz&show_icons=true&theme=tokyonight)
+
+<br/>  
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -61,19 +76,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-![alchemistyzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchemistyzz&show_icons=true&theme=tokyonight)
-
-<br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
