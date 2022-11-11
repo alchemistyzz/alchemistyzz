@@ -12,7 +12,7 @@
 
 ## Github Stats  
 ![alchemistyzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchemistyzz&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1cardo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemistyzz&layout=compact)
 
 <br/>  
 
