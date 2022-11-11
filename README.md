@@ -70,7 +70,7 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=alchemistyzz&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>  
+![alchemistyzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchemistyzz&show_icons=true&theme=tokyonight)
 
 <br/>  
 
