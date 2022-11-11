@@ -1,23 +1,15 @@
-- 🧑‍🎓I'm a junior student in HITsz(Harbin Institute of Technology Shenzhen) specialized in computer science.  
-  
-
-- **🌱 I’m currently learning computer vision in the field of continual learning and multi-task image restoration.**  
-  
-
-<br/>  
-
-
-
-
-
-## Connect with me  
-  
-
+## Hello World!
+- 🧑‍🎓I'm a junior student in **HITsz**(Harbin Institute of Technology Shenzhen) specialized in Computer Science.  
+- 🌱 I’m currently learning **computer vision** in the field of Continual Learning and Multi-Task Images Restoration.
+- 👯 Currently working in **ShenZhen, China**
+- 📫 How to reach me: **zhangyizhen_coder@outlook.com**
+- ⚡ Fun fact: **Movie,Food**
 <br/>  
 
 
 ## Github Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemistyzz)](https://github.com/alchemistyzz/github-readme-stats)
+
 ![alchemistyzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchemistyzz&show_icons=true&theme=tokyonight)
 
 <br/>  
