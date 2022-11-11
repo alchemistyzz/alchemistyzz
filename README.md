@@ -6,6 +6,9 @@
 - ⚡ Fun fact: **Movie,Food**
 <br/>  
 
+## My GitHub Contributions
+
+![](https://raw.githubusercontent.com/alchemistyzz/alchemistyzz/main/assets/github-contribution-grid-snake.svg)
 
 ## Github Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemistyzz)](https://github.com/alchemistyzz/github-readme-stats)
