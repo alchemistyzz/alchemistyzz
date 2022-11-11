@@ -11,7 +11,7 @@
 ![](https://raw.githubusercontent.com/alchemistyzz/alchemistyzz/main/assets/github-contribution-grid-snake.svg)
 
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemistyzz)](https://github.com/alchemistyzz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemistyzz)](https://github.com/alchemistyzz/github-readme-stats)
 ![alchemistyzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchemistyzz&show_icons=true&theme=tokyonight)
 
 <br/>  
