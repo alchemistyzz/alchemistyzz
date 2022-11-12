@@ -1,6 +1,6 @@
 ## Hello World!
 - 🧑‍🎓 I'm a junior student in **HITsz**(Harbin Institute of Technology,shenzhen) specialized in Computer Science.  
-- 🌱 I’m currently learning **computer vision** in the field of Continual Learning and Multi-Tasks Images Restoration.
+- 🌱 I’m currently learning **Computer Vision** in the field of **Continual Learning and Multi-Tasks Images Restoration**.
 - 👯 Currently working in **ShenZhen, China**
 - 📫 How to reach me: **zhangyizhen_coder@outlook.com**
 - ⚡ Fun fact: **Movie,Food**
