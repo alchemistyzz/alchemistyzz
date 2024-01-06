@@ -4,7 +4,7 @@
 - 👯 Currently working in **Shenzhen, China**
 - 📫 How to reach me: **zhangyizhen_coder@outlook.com**
 - ⚡ Fun fact: **Movie,Food**
-- **As you may see in my profile, alchemist stands for the stage where I am,so there're lots of novel and magic things for me to learn and dive into,I hope I can create some really fascinating and useful findings in the future.So let's work together to make us better!!!**
+
 <br/>  
 
 ## My GitHub Contributions
