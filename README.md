@@ -1,9 +1,9 @@
 ## Hello World!
-- 🧑‍🎓 I'm a junior student in **HITsz**(Harbin Institute of Technology,shenzhen) specialized in Computer Science.  
+- 🧑‍🎓 I'm a final-year student in **HITsz**(Harbin Institute of Technology,shenzhen) specialized in Computer Science under the supervision of ![Professor Wenjie Pei](https://faculty.hitsz.edu.cn/peiwenjie). And I will pursue master's degree in Artificial Intelligence at Tsinghua University in ![IIG GROUP](https://sites.google.com/view/iigroup-thu) under the supervision of ![Professor Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). 
 - 🌱 I’m currently learning **Computer Vision** in the field of **Continual Learning and Multi-Tasks Images Restoration**.
-- 👯 Currently working in **Shenzhen, China**
+- 👯 Currently working in **Shanghai, China**,Xiaohongshu Inc. as machine learning engineer intern.
 - 📫 How to reach me: **zhangyizhen_coder@outlook.com**
-- ⚡ Fun fact: **Movie,Food**
+- ⚡ Fun fact: **Movie,Food,Games**
 
 <br/>  
 
