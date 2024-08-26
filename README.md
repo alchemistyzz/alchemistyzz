@@ -1,5 +1,5 @@
 ## Hello World!
-- 🧑‍🎓I am currently a first-year master's student at Tsinghua University in [IIG GROUP](https://sites.google.com/view/iigroup-thu) under the supervision of [Professor Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN)specializing in Artificial Intelligence . Previously, I completed my undergraduate studies in Computer Science at HITsz (Harbin Institute of Technology, Shenzhen), under the supervision of [Professor Wenjie Pei](https://faculty.hitsz.edu.cn/peiwenjie).
+- 🧑‍🎓I am currently a first-year master's student at Tsinghua University in [IIG GROUP](https://sites.google.com/view/iigroup-thu) under the supervision of [Prof.Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) specializing in Artificial Intelligence . Previously, I completed my undergraduate studies in Computer Science at HITsz (Harbin Institute of Technology, Shenzhen), under the supervision of [Prof.Wenjie Pei](https://faculty.hitsz.edu.cn/peiwenjie).
 - 🌱 I’m currently focusing on NLP in the field of **LLM(Large language model)** with research areas including alignment, fine-tuning, and related topics..
 - 👯 Previously working in **Shanghai, China**,Xiaohongshu Inc. as machine learning engineer intern.
 - 📫 How to reach me: **zhangyiz24@mails.tsinghua.edu.cn**
