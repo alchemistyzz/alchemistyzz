@@ -1,9 +1,14 @@
-## Hello World!
-- 🧑‍🎓I am currently a first-year master's student at Tsinghua University in [IIGROUP](https://sites.google.com/view/iigroup-thu) under the supervision of [Prof.Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN) specializing in Artificial Intelligence . Previously, I completed my undergraduate studies in Computer Science at HITsz (Harbin Institute of Technology, Shenzhen), under the supervision of [Prof.Wenjie Pei](https://faculty.hitsz.edu.cn/peiwenjie).
-- 🌱 I’m currently focusing on NLP in the field of **LLM(Large language model)** with research areas including alignment, fine-tuning, and related topics..
-- 👯 Previously working in **Shanghai, China**,Xiaohongshu Inc. as machine learning engineer intern.
-- 📫 How to reach me: **zhangyizhen24@mails.tsinghua.edu.cn**
-- ⚡ Fun fact: **Movie,Food,Games**
+🧑‍🎓 I am currently a first-year master's student at Tsinghua University in the [IIGROUP](https://sites.google.com/view/iigroup-thu), under the supervision of [Prof.Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN), specializing in Artificial Intelligence. Previously, I completed my undergraduate studies in Computer Science at HITsz (Harbin Institute of Technology, Shenzhen), where I was advised by [Prof.Wenjie Pei](https://faculty.hitsz.edu.cn/peiwenjie).
+
+💡 My current research focuses on Large Language Models (LLMs) and Large Multimodal Models (LMMs), particularly in mathematical reasoning and related topics.
+
+💼 I am currently a research intern at Microsoft, working under the supervision of [Dr.Lei Ji](https://scholar.google.com/citations?user=IruOVk4AAAAJ&hl=en) and [Dr.Yeyun Gong](https://scholar.google.com/citations?user=piUkwMYAAAAJ&hl=en),where I am further exploring advancements in NLP and multimodal AI. Previously, I worked as a Machine Learning Engineer Intern at Xiaohongshu Inc., Shanghai.
+
+📫 Feel free to reach out: zhangyizhen24@mails.tsinghua.edu.cn
+
+⚡ Fun facts: I love movies, food, and games!
+
+
 
 <br/>  
 
